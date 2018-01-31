@@ -1,0 +1,2 @@
+# SniGatewayAndroidPlugin
+SniGatewayAndroidPlugin
